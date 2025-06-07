@@ -1,0 +1,15 @@
+name: prince junior v2
+services:
+  - name: prince-junior-v2-service
+    type: web
+    ports:
+      - 5000
+    routes:
+      - path: "/"
+    build:
+      type: docker
+      dockerfile: ./Dockerfile
+    regions:
+      - fra
+      - sin
+      
