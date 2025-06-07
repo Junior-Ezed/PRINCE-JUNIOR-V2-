@@ -46,7 +46,7 @@
 
  <h3>♥️♥️✰Fork this repo𑁍♥️♥️</h3>
 <p align="centre">
-<a href="https://github.com/Junior-Ezed/PRINCE-JUNIOR-V2/fork"><img src="https://img.shields.io/badge/FORK%20REPO-Click%20Here-007ACC?style=for-the-badge&logo=github" alt="https://github.com/Junior-Ezed/PRINCE-JUNIOR-V2/fork" width="160"></a>
+<a href="https://github.com/Junior-Ezed/PRINCE-JUNIOR-V2-/fork"><img src="https://img.shields.io/badge/FORK%20REPO-Click%20Here-007ACC?style=for-the-badge&logo=github" alt="https://github.com/Junior-Ezed/PRINCE-JUNIOR-V2-/fork" width="160"></a>
 <p/>
 <h4>💥♥️ GET YOUR SESSION ID HERE OPTION ONE❣️❤️‍🔥</h4>
 <p align="centre">
