@@ -1,7 +1,7 @@
 {
   "name": "PRINCE JUNIOR V2",
   "description": "Javascript WhatsApp bot made Junior Ezed",
-  "logo": "https://files.catbox.moe/82b8gr.jpg",
+  "logo": "https://files.catbox.moe/lp4rp2.jpg",
   "keywords": ["PRINCE JUNIOR V2"],
   "success_url": "/",
 
@@ -132,13 +132,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/82b8gr.jpg"
+      "value": "https://files.catbox.moe/lp4rp2.jpg"
     },
     
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "> *Powered by Junior Ezed with help of Whatsapp *"
+      "value": "> *Powered by Junior Ezed *"
     },
 
       "DELETE_LINKS": {
