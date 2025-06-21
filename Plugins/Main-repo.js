@@ -11,7 +11,7 @@ cmd({
     filename: __filename,
 },
 async (conn, mek, m, { from, reply }) => {
-    const githubRepoURL = 'https://github.com/Junior-Ezed/Prince-Junior-v2-';
+    const githubRepoURL = 'https://github.com/Junior-Ezed/PRINCE-JUNIOR-V2-';
 
     try {
         const match = githubRepoURL.match(/github\.com\/([^/]+)\/([^/]+)/);
